@@ -18,3 +18,20 @@ Make sure you have `pytube` installed. If not, you can install it using pip:
 
 ```bash
 pip install pytube
+
+Step 3: Run the Script
+Run the main.py file in your Python environment. This will start the YouTube video downloader.
+
+Usage
+Once the script is running, follow the on-screen instructions to input the YouTube video URL you want to download and choose the desired video quality/format. The script will then download the video to your local machine.
+
+
+Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request.
+
+
+License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute this code for any purpose.
+
+
+In this markdown, I've replaced the previous downloading process GIF with the provided one.
