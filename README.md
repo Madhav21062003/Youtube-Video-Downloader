@@ -2,7 +2,7 @@
 
 This is a simple Python script that allows you to download YouTube videos directly to your PC. 
 
-![YouTube](https://media.giphy.com/media/2xPPe3XEOnTmI/giphy.gif)
+![YouTube]([https://media.giphy.com/media/2xPPe3XEOnTmI/giphy.gif](https://www.reddit.com/r/reactiongifs/comments/3418wg/mrw_i_laugh_and_then_begin_to_choke_on_the_water/))
 
 ## Getting Started
 
